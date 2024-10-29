@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 55daccc09a3b69647bbab145b54a3ab3
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: c5f9c99f017528f46baf80c282f955fe
+  - enabled: 1
+    path: Assets/Scenes/MainRoom.unity
+    guid: 4e9fef26e6adb88479ad1b9834a32d94
+  - enabled: 1
+    path: Assets/Scenes/Briefing 2.unity
+    guid: 4802efc48b6d059489f7f664f47e9d2b
+  - enabled: 1
+    path: Assets/Scenes/Chase.unity
+    guid: 986ddb02134c7874d947f8f40c9b1b9c
+  - enabled: 1
+    path: Assets/Scenes/Briefing 3.unity
+    guid: a57a8d1fc132cfc4cb5a77102de95b29
+  - enabled: 1
+    path: Assets/Scenes/MainRoomNight.unity
+    guid: aff8ef629edeb9347a5b17f57cf2bc01
+  - enabled: 1
+    path: Assets/Scenes/Briefing 4.unity
+    guid: 25827fc7ef246d144b5d2706df077af5
+  - enabled: 1
+    path: Assets/Scenes/Briefing 5 - WIn.unity
+    guid: a32e2c8caa97c94448fb65a393e9b410
+  - enabled: 1
+    path: Assets/Scenes/Briefing 6 - Loss.unity
+    guid: bc2b74732abf3c64dabaa593923b23d0
+  - enabled: 1
+    path: Assets/Scenes/Briefing 4 - midscore.unity
+    guid: 29902bd52a2161c4ab1f2e9721d4b990
+  - enabled: 1
+    path: Assets/Scenes/Briefing 4 - high.unity
+    guid: 85f2728dec92c164b8ee5084ed927e7b
+  - enabled: 1
+    path: Assets/Scenes/Briefing 7 - Wrong.unity
+    guid: 18da7ea35c42363458bae6061217a66d
+  - enabled: 1
+    path: Assets/Scenes/Briefing.unity
+    guid: 1c522f0de483f9a4cbac8126c48a0342
+  - enabled: 1
+    path: Assets/Scenes/C2-Briefing.unity
+    guid: d4162d04d113a064b98c106e8ec3d678
+  - enabled: 1
+    path: Assets/Scenes/C2-MainRoom.unity
+    guid: e13a0ee62f28e4f4780717b1cd3fe971
+  - enabled: 1
+    path: Assets/Scenes/C2-Briefing 2.unity
+    guid: 283d236e81c14be4a907f6aa0068cff9
+  - enabled: 1
+    path: Assets/Scenes/C2-MainRoom Night.unity
+    guid: 2cb8dc80e097bd4458356b99996bd865
+  - enabled: 1
+    path: Assets/Scenes/C2-Briefing 3.unity
+    guid: 07aef1f30ab4d7f479495851dddd0696
+  - enabled: 1
+    path: Assets/Scenes/C2-MainRoom Night Motive.unity
+    guid: 1eef3a13982a34f488ed0fae216d0561
+  - enabled: 1
+    path: Assets/Scenes/C2-Briefing 4.unity
+    guid: 97137a9ec6213e8409cf7d348b7dd07e
+  - enabled: 1
+    path: Assets/Scenes/C2-Chase.unity
+    guid: 08f65c263aeb80546a486dc9c5586499
+  - enabled: 1
+    path: Assets/Scenes/C3-Briefing.unity
+    guid: 560908dadd2cf9044ae26f744e8112e6
+  - enabled: 1
+    path: Assets/Scenes/C3-MainRoom.unity
+    guid: a0e8c9f56714df0429e431774f63e2af
+  - enabled: 1
+    path: Assets/Scenes/C3-Briefing 2.unity
+    guid: 86ac5451e93f67b40ad5e870846306bc
+  - enabled: 1
+    path: Assets/Scenes/C3-MainRoom Night.unity
+    guid: 8f689f461c531e442b5064f9789fc044
+  - enabled: 1
+    path: Assets/Scenes/C3-Win.unity
+    guid: dbf687b053c290f4fa46a1ce27b710f8
+  - enabled: 1
+    path: Assets/Scenes/C3-Loss.unity
+    guid: 1b5c6758e5996e849bfa7f16651df5dc
+  - enabled: 1
+    path: Assets/Scenes/Selection.unity
+    guid: 81957414e4c83554e9480eb85d072b20
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 841b6432e6c62c247917a8e7d8b7b259, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 83f30aefd943ca4439755105d3abcb7a, type: 2}
